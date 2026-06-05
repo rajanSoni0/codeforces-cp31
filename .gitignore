@@ -1,0 +1,9 @@
+# Ignore executable files
+*.exe
+
+# Optional: ignore VS Code settings
+.vscode/
+
+# Optional: ignore build artifacts
+*.out
+*.o
